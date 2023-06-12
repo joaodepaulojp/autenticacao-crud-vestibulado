@@ -1,0 +1,21 @@
+# MYSQL
+
+DB_HOST = xxxxxxxxxx
+
+DB_USER = xxxxxxxxx
+
+DB_PASSWORD = xxxxxxxxxxxx
+
+DB_DATABASE = xxxxxxxxxxx
+
+# SMTP
+
+SMTP_HOST = xxxxx
+
+SMTP_PORT = xxxxx
+
+SMTP_USER = xxxxx
+
+SMTP_PASSWORD = xxxxx
+
+colocar dados do banco e do smpt(api para recuperação da senha)

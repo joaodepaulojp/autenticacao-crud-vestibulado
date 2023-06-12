@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# fotos da pasta "arquivos"
+arquivos/*
+!arquivos/example.jfif
+
+# arquivo .env
+.env
+
